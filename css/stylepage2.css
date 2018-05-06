@@ -1,0 +1,17 @@
+
+ body{
+ 	background-color: #e4ffe2;
+ 	font-family: 'Open Sans' , sans-serif; 
+
+ }
+ .SPASI{
+    background-color:none;
+    height: 150px;
+    width: 100%;
+   
+ }
+ .garis{
+	background-color: black;
+	width: 129%;
+	height: 1px
+}
